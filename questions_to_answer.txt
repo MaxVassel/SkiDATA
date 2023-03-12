@@ -1,0 +1,8 @@
+1) What is the resort with most amount of advanced slopes (red+black)
+2) Does the price depend on the amount of advanced slopes 
+3) What is cheapest resort in terms of price per km of slope
+4) -/- per km of advanced slopes
+5) what is the highest slope (not heli)
+6) what country is cheaper to have vacation in
+7) where is the cheapest beer
+8) where is cheaper accomodation
